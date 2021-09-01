@@ -1,5 +1,6 @@
 # sequel-file-manipulation
 Two shell scripts to be used during circular-consensus sequencing and demultiplexing, prior to use in the mcsmrt pipeline.
+
 A) bam_to_passes_tsv.sh 
 This Bash shell script takes a pacbio bam file and outputs a tsv with the nuber of passes during circular-consensus sequencing and can be used for adding sample and ccs passes to fqs in (B).
 
