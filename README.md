@@ -20,3 +20,4 @@ Input:
 Output:
 1) a tsv file with renamed fastq files with sample name
 
+Note: Please see test files for examples of required formatting.
