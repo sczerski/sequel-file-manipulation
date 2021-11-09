@@ -1,4 +1,4 @@
-# sequel-file-manipulation
+# sequel_file_manipulation
 Two shell scripts to be used during circular-consensus sequencing and demultiplexing, prior to use in the mcsmrt pipeline.
 
 A) bam_to_passes_tsv.sh 
