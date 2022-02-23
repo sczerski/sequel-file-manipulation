@@ -21,3 +21,5 @@ Output:
 1) a tsv file with renamed fastq files with sample name
 
 Note: Please see example test files for examples of required formatting.
+
+**2/23/2022: Please note that fastq files output from pbcromwell pb_demux are now .gz zipped files and must be unzipped prior to renaming fqs. A simple command to do this looks something like: $gunzip -f *.gz
